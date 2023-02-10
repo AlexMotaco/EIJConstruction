@@ -1778,8 +1778,10 @@ textarea.form-control:focus {
 }
 
 .header .logo a img {
+  margin-top: 15px;
+  margin-bottom: 15px;
   width: 100%;
-  max-width: 114px;
+  max-width: 135px;
   transition: all 0.5s ease;
 }
 
@@ -8993,6 +8995,7 @@ video {
 }
 
 .dark-theme .header .top_bar {
+  display: none;
   background-color: var(--heading-color);
   border-color: transparent;
 }
