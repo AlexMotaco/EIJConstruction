@@ -4280,6 +4280,7 @@ video {
 }
 
 .theme_slider_1 .slider .slide_content {
+  margin-top: 30px;
   position: relative;
   z-index: 1;
   padding-top: 250px;
