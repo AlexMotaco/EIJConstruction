@@ -9060,7 +9060,8 @@ video {
 }
 
 .dark-theme .theme_slider_1 .slider {
-  background-image: url("../images/slider/HOMESLIDE1.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.5)), url("../images/slider/HOMESLIDE1.jpg"))
 }
 
 .dark-theme .theme_slider_1 .slider::before {
