@@ -22,8 +22,8 @@
   --primary-color: #0C1C52;
   --second-color: #050B31;
   --body-color: #6E7A7A;
-  --text-heading-color: #00234B;
-  --heading-color: #002A5C;
+  --text-heading-color: #0C1C52;
+  --heading-color: #0C1C52;
   --testimonial-below-color: #979A9F;
   --testimonial-paragraph-color: #656A7C;
   --white-color: #ffffff;
@@ -678,7 +678,7 @@ textarea.form-control:focus {
 
 .experience_content .about_below .about_below_content i {
   background: #F1F3FF;
-  color: #00234B;
+  color: #0C1C52;
   width: 56px;
   height: 56px;
   text-align: center;
@@ -1139,7 +1139,7 @@ textarea.form-control:focus {
   font-weight: 500;
   text-transform: capitalize;
   line-height: 28px;
-  color: #00234B;
+  color: #0C1C52;
   list-style: none;
   background: #fff;
   padding: 16px 20px 16px 65px;
@@ -5550,7 +5550,7 @@ video {
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #00234B;
+  color: #0C1C52;
   text-transform: capitalize;
 }
 
@@ -7327,7 +7327,7 @@ video {
 .product_view_grid.type_3 .product_item .product_thumb .product_item_inner .product_item_price {
   font-size: 14px;
   font-weight: 700;
-  color: #002A5C;
+  color: #0C1C52;
 }
 
 .product_view_grid.type_3 .product_item .product_thumb .product_item_inner .product_item_price del {
@@ -7653,7 +7653,7 @@ video {
 .product_view_list.type_3 .product_item .product_thumb .product_item_inner .product_item_price {
   font-size: 14px;
   font-weight: 700;
-  color: #002A5C;
+  color: #0C1C52;
 }
 
 .product_view_list.type_3 .product_item .product_thumb .product_item_inner .product_item_price del {
@@ -8948,8 +8948,8 @@ video {
   --primary-color: #0C1C52;
   --second-color: #050B31;
   --body-color: #aeb6c2;
-  --text-heading-color: #00234B;
-  --heading-color: #002A5C;
+  --text-heading-color: #0C1C52;
+  --heading-color: #0C1C52;
   --testimonial-below-color: #979A9F;
   --testimonial-paragraph-color: #656A7C;
   --white-color: #ffffff;
@@ -9131,7 +9131,7 @@ video {
 }
 
 .dark-theme .service_inner_block::after {
-  background: #002a5c;
+  background: #0C1C52;
 }
 
 .dark-theme .service_inner_block .service_content p {
@@ -10197,7 +10197,7 @@ video {
   width: 60px;
   height: 60px;
   transition: all 0.7s ease;
-  color: #002A5C;
+  color: #0C1C52;
 }
 
 .owl-carousel.owl-theme .owl-nav [class*=owl-]:hover {
