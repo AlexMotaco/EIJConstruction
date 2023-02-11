@@ -19,7 +19,7 @@
 @import url("../plugins/aos/aos.css");
 @import url("../plugins/swiper/swiper-bundle.min.css");
 :root {
-  --primary-color: #00326F;
+  --primary-color: #0C1C52;
   --second-color: #050B31;
   --body-color: #6E7A7A;
   --text-heading-color: #00234B;
@@ -4647,7 +4647,7 @@ video {
   text-transform: uppercase;
   font-size: 30px;
   color: #050B31;
-  background: #00326F;
+  background: #0C1C52;
   font-weight: 700;
   cursor: pointer;
 }
@@ -8698,7 +8698,7 @@ video {
 .shipping_form .select2-container--default .select2-selection--single:focus,
 .shipping_form .select2-container--default.select2-container--focus .select2-selection--multiple,
 .shipping_form .select2-container--default.select2-container--focus .select2-selection--single {
-  border-color: #00326F;
+  border-color: #0C1C52;
   outline: none;
   outline-offset: 0px;
 }
@@ -8945,7 +8945,7 @@ video {
 }
 
 .dark-theme {
-  --primary-color: #00326F;
+  --primary-color: #0C1C52;
   --second-color: #050B31;
   --body-color: #aeb6c2;
   --text-heading-color: #00234B;
@@ -10017,7 +10017,7 @@ video {
 }
 
 .bg_3 {
-  background: #00326F;
+  background: #0C1C52;
 }
 
 /*---------- Breadcrumb Section ------------*/
