@@ -20,7 +20,7 @@
 @import url("../plugins/swiper/swiper-bundle.min.css");
 :root {
   --primary-color: #00326F;
-  --second-color: #FFA903;
+  --second-color: #050B31;
   --body-color: #6E7A7A;
   --text-heading-color: #00234B;
   --heading-color: #002A5C;
@@ -564,7 +564,7 @@ textarea.form-control:focus {
   vertical-align: middle;
   z-index: 1;
   position: relative;
-  background: #FFA903;
+  background: #050B31;
   width: 150px;
   height: 140px;
   line-height: 22px;
@@ -4646,7 +4646,7 @@ video {
   height: 100%;
   text-transform: uppercase;
   font-size: 30px;
-  color: #FFA903;
+  color: #050B31;
   background: #00326F;
   font-weight: 700;
   cursor: pointer;
@@ -8946,7 +8946,7 @@ video {
 
 .dark-theme {
   --primary-color: #00326F;
-  --second-color: #FFA903;
+  --second-color: #050B31;
   --body-color: #aeb6c2;
   --text-heading-color: #00234B;
   --heading-color: #002A5C;
