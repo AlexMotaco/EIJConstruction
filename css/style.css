@@ -1063,7 +1063,7 @@ textarea.form-control:focus {
 
 .service_inner .service_content a i {
   margin-left: 10px;
-  color: var(--second-color);
+  color: #ffffff;
 }
 
 .service_inner .main_img {
