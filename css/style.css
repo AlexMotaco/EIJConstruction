@@ -1036,7 +1036,7 @@ textarea.form-control:focus {
 }
 
 .service_inner .service_content h6 {
-  color: var(--second-color);
+  color: #ffffff;
   font-size: 14px;
   line-height: 30px;
   letter-spacing: 5px;
