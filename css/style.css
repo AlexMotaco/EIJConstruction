@@ -3793,7 +3793,7 @@ video {
   line-height: 24px;
   letter-spacing: -.2px;
   text-transform: capitalize;
-  color: #99abbd;
+  color: #FFFFFF;
   margin-bottom: 0;
 }
 
@@ -3802,7 +3802,7 @@ video {
 }
 
 .footer .footer_bottom .footer_bottom_inner .footer_nav_bottom a {
-  color: #99abbd;
+  color: #FFFFFF;
   font-family: "Mulish", sans-serif;
   font-weight: 400;
   font-size: 16px;
