@@ -10101,7 +10101,7 @@ video {
   margin-top: 5px;
   margin-bottom: 0px;
   padding: 0px 120px;
-  color: var(--second-color);
+  color: #FFFFFF;
 }
 
 .page_header .page_header_content::before {
