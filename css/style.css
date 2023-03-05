@@ -9108,7 +9108,7 @@ video {
 }
 
 .dark-theme .experience_content .about_below .about_below_content i {
-  background: var(--heading-color);
+  background: #050b31;
   color: var(--white-color);
 }
 
