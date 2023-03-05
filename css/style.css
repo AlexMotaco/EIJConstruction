@@ -576,7 +576,7 @@ textarea.form-control:focus {
   left: 20px;
   width: 100px;
   height: 100px;
-  background: #B47700;
+  background: #03061b;
   top: -44px;
   transform: rotate(50deg);
   z-index: -1;
@@ -2030,7 +2030,7 @@ textarea.form-control:focus {
 /*------- Testimonial -------*/
 .testimonial {
   padding-top: 185px;
-  background: #F2F7F7;
+  background: #FFFFFF;
 }
 
 .testimonial .owl_testimonial1.owl-theme .owl-nav [class*=owl-] {
@@ -10035,6 +10035,7 @@ video {
   left: 0;
   top: 48px;
   animation: headerobject-move1 4s;
+  display: none;
 }
 
 .page_header::after {
@@ -10049,6 +10050,7 @@ video {
   background-repeat: no-repeat;
   background-position: bottom right;
   animation: headerobject-move2 4s;
+  display: none;
 }
 
 @keyframes headerobject-move1 {
