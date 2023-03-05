@@ -74,6 +74,7 @@ body {
 
 .main_wrapper {
   position: relative;
+  background-color: #001e4e;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -8999,7 +9000,7 @@ video {
 
 .dark-theme .header .top_bar {
   display: none;
-  background-color: var(--heading-color);
+  background-color: #001e4e;
   border-color: transparent;
 }
 
