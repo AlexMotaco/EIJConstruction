@@ -3436,13 +3436,12 @@ video {
 }
 
 .footer .footer_above {
-  background: url("../images/footer_bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   padding-top: 100px;
   padding-bottom: 90px;
-  background-color: #111631;
+  background-color: #050b31;
 }
 
 .footer .footer_above .subscribe {
@@ -8965,7 +8964,7 @@ video {
 
 .dark-theme textarea.form-control,
 .dark-theme select, .dark-theme input[type="text"], .dark-theme input[type="email"], .dark-theme input[type="url"], .dark-theme input[type="password"], .dark-theme input[type="search"], .dark-theme input[type="number"], .dark-theme input[type="tel"], .dark-theme input[type="range"], .dark-theme input[type="date"], .dark-theme input[type="month"], .dark-theme input[type="week"], .dark-theme input[type="time"], .dark-theme input[type="datetime"], .dark-theme input[type="datetime-local"], .dark-theme input[type="color"] {
-  background-color: var(--heading-color);
+  background-color: #ffffff;
   border-color: rgba(255, 255, 255, 0.2);
   color: var(--white-color);
 }
@@ -10799,6 +10798,7 @@ video {
   }
   .footer .footer_bottom {
     padding: 30px 30px;
+    background: #050b31;
   }
   .theme_slider_3 .slider .slide_content .heading {
     font-size: 36px;
