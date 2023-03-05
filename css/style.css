@@ -1025,6 +1025,7 @@ textarea.form-control:focus {
   opacity: .2;
   left: 12px;
   top: 10px;
+  display: none;
 }
 
 .service_inner .icon_img img {
