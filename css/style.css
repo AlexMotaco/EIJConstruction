@@ -3798,7 +3798,14 @@ video {
 }
 
 .footer .footer_bottom .footer_bottom_inner .copyright p a {
-  text-transform: lowercase;
+  font-family: "Mulish", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: -.2px;
+  text-transform: capitalize;
+  color: #FFFFFF;
+  margin-bottom: 0;
 }
 
 .footer .footer_bottom .footer_bottom_inner .footer_nav_bottom a {
