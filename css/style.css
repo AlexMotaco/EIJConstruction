@@ -209,6 +209,12 @@ img {
   padding-bottom: 110px;
 }
 
+.section2 {
+  position: relative;
+  padding-top: 200px;
+  padding-bottom: 110px;
+}
+
 .section_sm {
   position: relative;
   padding-top: 80px;
