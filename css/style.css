@@ -5983,6 +5983,7 @@ video {
   background-repeat: no-repeat;
   background-position: left;
   background-size: cover;
+  display: none;
 }
 
 .contact_inner .contact_us_1 {
