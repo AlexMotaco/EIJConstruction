@@ -9533,8 +9533,8 @@ video {
 }
 
 .dark-theme .keepintouch_3 .communication {
-  background-color: var(--dark-bg-color);
-  box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.2);
+  background-color: #050b31;
+  box-shadow: 0px 0px 20px #050b31;
 }
 
 .dark-theme .keepintouch_3 .communication .communication_icon {
