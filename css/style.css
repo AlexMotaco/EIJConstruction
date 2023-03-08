@@ -507,6 +507,7 @@ textarea.form-control:focus {
   top: 92px;
   right: 39px;
   animation: gruopimg-move1 4s infinite;
+  display: none;
 }
 
 .group_image_holder .object img:nth-child(2) {
